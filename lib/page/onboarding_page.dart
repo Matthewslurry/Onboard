@@ -61,7 +61,7 @@ class OnboardingPage extends StatelessWidget {
   DotsDecorator getDotDecoration() => DotsDecorator(
       size: Size(10, 10),
       activeColor: Colors.blueAccent,
-      activeSize: Size(22, 10),
+      activeSize: Size(22, 11),
       activeShape:
           RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)));
 
